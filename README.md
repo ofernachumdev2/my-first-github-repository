@@ -1,4 +1,4 @@
 # my-first-github-repository
 This is my first GitHub repository
 
-README.md file was just edited manually ! This file was modified locally !
+This is the conflict resolution line. I have replaced both incoming and current with this lin !
